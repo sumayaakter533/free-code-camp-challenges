@@ -1,3 +1,5 @@
+// NOTE: Variables which are declared within a function, as well as the function parameters, have local scope. That means they are only visible within that function.
+
 function myLocalScope() {
     // Only change code below this line
     let myVar;
